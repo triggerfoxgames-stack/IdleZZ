@@ -1,6 +1,3 @@
-# IdleZZ
-Screensaver program I made in Lua. Takes Images, Gifs, and Music, allowing you to make your own custom DVD bounce screensaver!
-
 # HOW TO USE
 
 F11 - Toggle Fullscreen (When first opening the program, you'll have to press it twice for it to work. not exactly sure why)
